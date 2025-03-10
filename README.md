@@ -73,10 +73,14 @@ npm start
 Now, open http://localhost:3000/ in your browser to view the app.
 
 📷 Screenshots
+
+
 🌞 Light Mode
+
 ![image](https://github.com/user-attachments/assets/08cdd306-d7d3-442c-abdb-1483564ab76f)
 
 🌙 Dark Mode
+
 ![image](https://github.com/user-attachments/assets/717f6dea-1482-4c06-821e-f1cbed350b3c)
 
 🤝 Contributing
