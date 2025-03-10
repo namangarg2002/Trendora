@@ -22,12 +22,12 @@ const Menu = [
     link: "/#"
   },
   {
-    id: 3,
+    id: 4,
     name: "Mens Wear",
     link: "/#"
   },
   {
-    id: 3,
+    id: 5,
     name: "Electronics",
     link: "/#"
   }
@@ -55,7 +55,7 @@ function Navbar({handleOrderPopup = () => {} }) {
           <div>
             <a href='/#'  className='font-bold text-xl items-center flex gap-1'>
               <FiShoppingBag size="30"/>
-              ShopMe
+              Trendora
             </a>
           </div>
           <div className='flex justify-between items-center gap-4'>
