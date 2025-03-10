@@ -63,7 +63,7 @@
 
 ### 1️⃣ **Clone the Repository**  
 
-git clone https://github.com/yourusername/trendora.git
+git clone https://github.com/namangarg2002/Trendora.git
 cd trendora
 
 ### 2️⃣ **Install Dependencies**
