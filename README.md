@@ -71,6 +71,7 @@ npm install
 
 ### 3️⃣ **Run the App Locally**
 npm start
+
 Now, open http://localhost:3000/ in your browser to view the app.
 
 📷 Screenshots
