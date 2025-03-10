@@ -1,7 +1,5 @@
 # 🛍️ Trendora - E-Commerce Website
 
-🔗 **[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/status.svg)](https://e-commerce-trendora.netlify.app/)**
-
 ## 🚀 Live Demo  
 🔗 **[View Trendora Online](https://e-commerce-trendora.netlify.app/)**  
 
